@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+heeeey k tal lmao
+
+=======
+heeeey k tal aaaaa
+>>>>>>> a01351bcae5436fb9b21e9dcfc0ba6e2f2efcf50
+=======
+heeeey k tal lidux
+>>>>>>> b1b3a89d60846de522163ff8ac33753357a49bec

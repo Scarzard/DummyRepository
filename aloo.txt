@@ -1,1 +1,5 @@
-heeeey k tal que me cuentas
+<<<<<<< HEAD
+heeeey k tal pero
+=======
+heeeey k tal lidux
+>>>>>>> b1b3a89d60846de522163ff8ac33753357a49bec
